@@ -2,7 +2,7 @@ def selection_sort(list_items):
     for i in range(len(list_items)):
         min_value = list_items[i]
         old_pos = 0
-        for j in range(1,len(list_items)):
+        for j in range(i,len(list_items)):
             if list_items[j] < min_value:
                 min_value = list_items[j]
                 old_pos = j
