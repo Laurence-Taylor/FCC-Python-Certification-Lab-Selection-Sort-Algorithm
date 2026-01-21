@@ -14,5 +14,6 @@ Objective: Fulfill the user stories below and get all the tests to pass to compl
     Your selection_sort function should have one parameter that represents the list of items.
     Your selection_sort function should take a list and sort the items in place from smallest to largest.
     Your selection_sort function should modify the input list in-place, and return it once it's sorted.
-    Your selection_sort function should follow the selection sort algorithm, swapping the smallest element from the unsorted portion of the list, with the first unsorted element.
+    Your selection_sort function should follow the selection sort algorithm, swapping the smallest element
+    from the unsorted portion of the list, with the first unsorted element.
     Your selection_sort function should not use either the built-in sort() method or sorted() function.
